@@ -1,0 +1,33 @@
+body {
+    font-family: 'Times New Roman', Times, serif, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #fff; /* Default background color */
+    color: #fffdfd; /* Default text color */
+}
+
+body.dark-theme {
+    background-color: #f5eeee; /* Dark background color */
+    color: #fff; /* Light text color */
+}
+
+header {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 1em;
+}
+
+section {
+    margin: 20px;
+}
+
+footer {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 1em;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
