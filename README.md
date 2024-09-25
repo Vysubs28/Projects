@@ -1,1 +1,1 @@
-
+This Repository consists of side project files that I have completed outside of college these are run in VS code and the terminal. Some files consist of images of projects that I have added to this site that weren't programing-related. 
